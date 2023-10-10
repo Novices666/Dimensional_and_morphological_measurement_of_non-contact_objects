@@ -5,6 +5,7 @@
 ## 本仓库介绍
 文件列表说明
 ```
+├─openmv.py    //openmv 代码
 ├─32projects    //STM32F103ZET6 代码
 │  ├─CORE
 │  ├─HARDWARE
